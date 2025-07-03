@@ -2,8 +2,8 @@
 
 🚀 GHISHAN (GS) is a Polygon-based digital asset.
 
-🔗 Learn more at [ghishantoken.io](https://ghishantoken.io)
+🔗 Learn more at https://ghishan.carrd.co
 
-🪙 Contract address: (coming soon)
+🪙 Contract address: 0x5c30ec67570b9f4a8e5489edf3dc99e56c87b570
 
-📢 Follow us on Twitter: [@ghishan_token](https://twitter.com/ghishan_token)
+📢 Follow us on Twitter: https://x.com/ghishan_project?t=t8unjDvbA39PerA8DgnysQ&s=09
