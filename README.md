@@ -18,3 +18,5 @@ Official contract deployed on Polygon network.
 
 We are committed to a safe and transparent launch.
 
+https://polygonscan.com/token/0x5c30ec67570B9f4a8e5489eDf3dC99e56c87B570
+
